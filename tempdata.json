@@ -1,0 +1,55 @@
+{
+    "data":{
+        // "threads":{
+        //     "t1": {
+        //         "key":"t1",
+        //         "title":"My first thread",
+        //         "publishedAt": "",
+        //         "posts":{
+        //             "p1":"p1"
+        //         },
+        //         "userId":"u1"
+        //     }
+        // },
+        // "posts": {
+        //     "key":"p1",
+        //     "publishedAt":"",
+        //     "userId":"u1",
+        //     "text":"Hy for to all",
+        //     "threadId":"t1"
+        // },
+        // "users":{
+        //     "u1":{
+        //         "key":"u1",
+        //         "name":"Alice",
+        //         "posts":[
+        //             "p1"
+        //         ],
+        //         "threads":[
+        //             "t1"
+        //         ]
+        //     }
+        // },
+        "forums":[
+            {
+                "key":"f1",
+                "name":"Backing",
+                "description":"",
+                "categoryId":"c1",
+                "threads":[
+                    "t1"
+                ]
+            }
+        ]
+        // ,
+        // "categories":{
+        //     "c1":{
+        //         "key":"c1",
+        //         "name":"Discussions",
+        //         "forums":[
+        //             "f1"
+        //         ]
+        //     }
+        // }
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "foren": [
+    {
+      "id": "b613623e-1f46-409d-a910-8aa7b6d92a33",
+      "name": "Swift UI",
+      "description": "SwiftUI ist ein GUI-Framework von Apple, das auf dem Entwurfsmuster MVVM basiert. Während der WWDC 2019 wurde SwiftUI zum ersten Mal vorgestellt.\n\nEs bietet die Möglichkeit, Views deklarativ zu erstellen und Zustände in einer leichtgewichtigen Weise zu modellieren, sodass Zustandsänderungen sofort in der Benutzeroberfläche reflektiert werden. SwiftUI stellt außerdem Event-Handler für Gesten und andere Arten von Eingaben bereit. Des Weiteren existieren vorgefertigte Views, Steuerelemente[1] und Layout-Strukturen[2], woraus eigene individuelle Ansichten für alle Apple Plattformen, wie iOS, macOS, watchOS sowie tvOS entwickelt werden können, die Quellcode zwischen den Plattformen teilen. Barrierefreiheit[3] und verschiedene Sprachen, Länder oder Kulturregionen werden unterstützt.",
+      "categoryId": "c1",
+      "threads": [],
+      "createdAt": "2023-03-21T08:18:47.735Z",
+      "updatedAt": "2023-03-21T08:18:47.735Z"
+    },
+    {
+      "id": "0b0aab30-3d40-440f-9ef6-39b006ba3b44",
+      "name": "Vue",
+      "description": "ue (aus dem frz. vue, „Blickwinkel“, „Ansicht“ oder „Sehsinn“, im Deutschen ein veraltendes Bildungs-Fremdwort für „(schöne) Aussicht“ (vgl. „Bellevue“), „(schöner) Anblick“) ist der Name einer Software-Produktlinie des US-amerikanischen Softwareherstellers E-on software. Die Produktlinie wird fortlaufend aktualisiert und liegt gegenwärtig (Mai 2013) in der Version 11.5 vor. Die Software ermöglicht es, natürlich wirkende, realistische 3D-Grafiken von Landschaften und Innenräumen zu erzeugen. Die Versionen Infinite und xStream bieten hierbei den größten Funktionsumfang, es existieren jedoch auch abgespeckte Versionen (Pro Studio, Esprit, Easel) für Anwender, welche weniger Funktionen benötigen.[",
+      "categoryId": "c1",
+      "threads": [],
+      "createdAt": "2023-03-21T08:19:07.270Z",
+      "updatedAt": "2023-03-21T08:19:07.270Z"
+    },
+    {
+      "id": "54773074-4149-4c00-86ab-f43cfc8a2b99",
+      "name": "MVVM",
+      "description": "Model View ViewModel (MVVM) ist ein Entwurfsmuster und eine Variante des Model-View-Controller-Musters (MVC). Es dient zur Trennung von Darstellung und Logik der Benutzerschnittstelle (UI). Es zielt auf moderne UI-Plattformen wie Cocoa, Windows Presentation Foundation (WPF), JavaFX, und HTML5 ab, da ein Datenbindungsmechanismus erforderlich ist. Gegenüber dem MVC-Muster kann die Testbarkeit verbessert und der Implementierungsaufwand reduziert werden, da keine separaten Controller-Instanzen erforderlich sind. MVVM erlaubt eine Rollentrennung von UI-Designern und Entwicklern, wodurch Anwendungsschichten von verschiedenen Arbeitsgruppen entwickelt werden können. Designer können einen Fokus auf User Experience setzen und Entwickler die UI- und Geschäftslogik schreiben.",
+      "categoryId": "c1",
+      "threads": [],
+      "createdAt": "2023-03-21T08:19:36.821Z",
+      "updatedAt": "2023-03-21T08:19:36.821Z"
+    },
+    {
+      "id": "ef1113d4-1435-408a-8432-4adee2241211",
+      "name": "MVC",
+      "description": "Model View Controller (MVC, englisch für Modell-Präsentation-Steuerung) ist ein Muster zur Unterteilung einer Software in die drei Komponenten Datenmodell (englisch model), Präsentation (englisch view) und Programmsteuerung (englisch controller). Das Muster kann sowohl als Architekturmuster als auch als Entwurfsmuster eingesetzt werden.[1] Ziel des Musters ist ein flexibler Programmentwurf, der eine spätere Änderung oder Erweiterung erleichtert und eine Wiederverwendbarkeit der einzelnen Komponenten ermöglicht. Es ist dann zum Beispiel möglich, eine Anwendung zu schreiben, die dasselbe Modell nutzt und es dann für Windows, Mac, Linux oder für das Internet zugänglich macht. Die Umsetzungen nutzen dasselbe Modell, nur Controller und View müssen dabei jeweils neu implementiert werden.\n\nDas MVC-Konzept wurde 1979 zunächst für Benutzeroberflächen in Smalltalk durch Trygve Reenskaug beschrieben (Seeheim-Modell), der damals an Smalltalk im Xerox PARC arbeitete. Es gilt mittlerweile aber als De-facto-Standard für den Grobentwurf vieler komplexer Softwaresysteme, teils mit Differenzierungen und oftmals mehreren jeweils nach dem MVC-Muster aufgeteilten Modulen.",
+      "categoryId": "c1",
+      "threads": [],
+      "createdAt": "2023-03-21T08:19:52.819Z",
+      "updatedAt": "2023-03-21T08:19:52.819Z"
+    },
+    {
+      "id": "0f5a81a0-ac22-4478-8f3e-a0bceceb5534",
+      "name": "MVP",
+      "description": "Model View Presenter (Abkürzung MVP; wörtlich etwa ‚Modell-Ansicht-Präsentierer‘) ist ein Entwurfsmuster in der Softwareentwicklung, das aus dem Model View Controller (MVC) hervorgegangen ist. Es beschreibt einen neuartigen Ansatz, um das Modell (engl. model) und die Ansicht (engl. view) komplett voneinander zu trennen und über einen Präsentierer (engl. presenter) zu verbinden. Dabei steht neben einer deutlich verbesserten Testbarkeit auch die strengere Trennung der einzelnen Komponenten im Gegensatz zu MVC im Vordergrund.\n\nErstmals eingesetzt und genannt wurde dieses Entwurfsmuster in den 1990er-Jahren von IBM und Taligent. Martin Fowler formulierte jedoch im Jahre 2004 model-view-presenter nach seinem Verständnis. Seine Definition ist heute ausschlaggebend.",
+      "categoryId": "c1",
+      "threads": [],
+      "createdAt": "2023-03-21T08:20:15.711Z",
+      "updatedAt": "2023-03-21T08:20:15.711Z"
+    }
+  ]
+}
